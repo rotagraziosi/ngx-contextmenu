@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/isaacplmann/ngx-contextmenu.git"
+    "url": "git+ssh://git@github.com/rotagraziosi/ngx-contextmenu.git"
   },
   "main": "lib/index.js",
   "module": "lib/index.js",
